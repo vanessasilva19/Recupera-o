@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+    text-align: center;
+}
+
+body{
+    height: 100%;
+    background-color: rgb(236, 219, 251);
+    margin: 3%;
+    padding: 0%;
+    background-image: url(https://s2.glbimg.com/NNbJWCWpPiTmrRTP6Vq_NWVXZw8=/e.glbimg.com/og/ed/f/original/2018/10/31/math-1500720_1920.jpg);
+    
+}
+
+header{
+   
+    background-color: rgb(234, 234, 255);
+    border-radius: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 51, 51);
+    
+}
+.espaçamento{
+    height: 33%;
+}
+.container{
+    height: 40%;
+    text-align: center;
+    background-color: rgb(39, 46, 40);
+    justify-content: center;
+    border-radius: 50%;
+}
+.footer{
+    background-color: rgb(248, 255, 183);
+    height: 80%;
+    justify-content: flex-end;
+
+}
